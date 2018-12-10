@@ -15,13 +15,12 @@
     <!-- Content Header -->
     <header>
       <section class="section is-paddingless has-background-orangefirst has-text-white-bis">
-        <div class="container info-top-menu">
-          <p> <i><small>(85) <b>3497-2714</b> | (85) <b>3487-2250</b> | (85) <b>3497-8998</b> | <b>vendas@uchoamoveis.com.br</b> | </small></i> <span><i class="fab fa-facebook-square"></i></span>  <span><i class="fab fa-instagram"></i></span></p> 
+        <div class="info-top-menu">
+          <p> <i><small>(85) <b>3497-2714</b> | (85) <b>3487-2250</b> | (85) <b>3497-8998</b> | <b>vendas@uchoamoveis.com.br</b> | </small></i> <span><i class="fab fa-facebook-square"></i></span>  <span><i class="fab fa-instagram"></i></span></p>
         </div>
       </section>
       <nav class="navbar is-orangesecond is-bold" role="navigation" aria-label="main navigation">
-        <div class="container">
-          <div class="navbar-brand">
+        <div class="navbar-brand">
             <a class="navbar-item" href="#">
               <img src="assets/imgs/logo_white.svg" width="150" height="auto">
             </a>
@@ -32,7 +31,6 @@
               <span aria-hidden="true"></span>
             </a>
           </div>
-
           <div id="navbarBasicExample" class="navbar-menu">
             <div class="navbar-end">
               <a class="navbar-item">
@@ -109,7 +107,6 @@
               <a class="navbar-item">
                 Contato
               </a>
-        </div>
       </nav>
 
     </header>
