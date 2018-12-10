@@ -1,0 +1,25 @@
+/* .navbar .navbar-menu .navbar-item{
+  padding-top: 2em;
+  padding-bottom: 2em;
+} */
+
+.class{
+  background-color: inherit;
+}
+
+.info-top-menu{
+  text-align: right;
+  font-size: 10pt;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.has-image-centered {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+.footer{
+  padding: 3rem 1.5rem 2rem;
+}
