@@ -1,0 +1,35 @@
+// Colors
+
+$blue-one:     #002448 !default
+$blue-two:     #3269D9 !default
+$blue-three:   #4A80EC !default
+
+$orange-one:     #B32F00 !default
+$orange-two:     #F15A24 !default
+$orange-three:   #ED7641 !default
+
+$dourado-one: #DAA520 !default
+
+$bluefirst: $blue-one !default
+$bluesecond: $blue-two !default
+$bluethird: $blue-three !default
+
+$orangefirst: $orange-one !default
+$orangesecond: $orange-two !default
+$orangethird: $orange-three !default
+
+$douradofirst: $dourado-one !default
+
+
+$bluefirst-invert: findColorInvert($blue-one) !default
+$bluesecond-invert: findColorInvert($blue-two) !default
+$bluethird-invert: findColorInvert($blue-three ) !default
+
+$orangefirst-invert: findColorInvert($orange-one) !default
+$orangesecond-invert: findColorInvert($orange-two) !default
+$orangethird-invert: findColorInvert($orange-three ) !default
+
+$douradofirst-invert: findColorInvert($dourado-one ) !default
+
+$my-colors: ( "douradofirst":($douradofirst, $douradofirst-invert), "bluefirst" : ($bluefirst, $bluefirst-invert), "bluesecond" : ($bluesecond, $bluesecond-invert), "bluethird" : ($bluethird, $bluethird-invert), "orangefirst" : ($orangefirst, $orangefirst-invert), "orangesecond" : ($orangesecond, $orangesecond-invert), "orangethird" : ($orangethird, $orangethird-invert) )
+$my-shades: ( ("douradofirst":$douradofirst, "orangefirst": $orangefirst, "orangesecond": $orangesecond, "orangethird": $orangethird, "bluefirst": $bluefirst, "bluesecond": $bluesecond, "bluethird": $bluethird ) )

@@ -13,16 +13,21 @@
   <body>
 
     <!-- Content Header -->
-    <header>
-      <section class="section is-paddingless has-background-orangefirst has-text-white-bis">
-        <div class="info-top-menu">
-          <p> <i><small>(85) <b>3497-2714</b> | (85) <b>3487-2250</b> | (85) <b>3497-8998</b> | <b>vendas@uchoamoveis.com.br</b> | </small></i> <span><i class="fab fa-facebook-square"></i></span>  <span><i class="fab fa-instagram"></i></span></p>
+    <header class="fixed-top">
+      <section class="section is-paddingless has-background-bluefirst has-text-white-bis">
+        <div class="container">
+
+          <div class="info-top-menu">
+            <p> <i><small>(85) <b>3497-2714</b> | (85) <b>3487-2250</b> | (85) <b>3497-8998</b> | <b>vendas@uchoamoveis.com.br</b> | </small></i> <span><i class="fab fa-facebook-square"></i></span>  <span><i class="fab fa-instagram"></i></span></p>
+          </div>
         </div>
       </section>
-      <nav class="navbar is-orangesecond is-bold" role="navigation" aria-label="main navigation">
-        <div class="navbar-brand">
+      <nav class="navbar is-light is-bold" role="navigation" aria-label="main navigation">
+        <div class="container">
+
+          <div class="navbar-brand">
             <a class="navbar-item" href="#">
-              <img src="assets/imgs/logo_white.svg" width="150" height="auto">
+              <img src="assets/imgs/logo_azul.svg" width="150" height="auto">
             </a>
 
             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
@@ -107,6 +112,8 @@
               <a class="navbar-item">
                 Contato
               </a>
+        </div>
+
       </nav>
 
     </header>
@@ -121,43 +128,8 @@
         <div class="item"><img src="assets/imgs/images/04.jpg" alt=""></div>
         <div class="item"><img src="assets/imgs/images/05.jpg" alt=""></div>
       </div>
-      <!-- Destaques Serviços -->
-      <div class="columns has-text-centered has-text-white-bis is-marginless">
-        <div class="column has-background-bluefirst is-uppercase section">
-          <figure class="image is-128x128 has-image-centered">
-            <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
-          </figure>
-          <h4 class="has-text-weight-light">Supermercados</h4>
-
-        </div>
-        <div class="column has-background-bluesecond is-uppercase section">
-          <figure class="image is-128x128 has-image-centered">
-            <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
-          </figure>
-          <h4 class="has-text-weight-light">Farmácias</h4>
-        </div>
-        <div class="column has-background-bluefirst is-uppercase section">
-          <figure class="image is-128x128 has-image-centered">
-            <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
-          </figure>
-          <h4 class="has-text-weight-light">Home Centers</h4>
-        </div>
-        <div class="column has-background-bluesecond is-uppercase section">
-          <figure class="image is-128x128 has-image-centered">
-            <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
-          </figure>
-          <h4 class="has-text-weight-light">Armazenagem</h4>
-        </div>
-        <div class="column has-background-bluefirst is-uppercase section">
-          <figure class="image is-128x128 has-image-centered">
-            <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
-          </figure>
-          <h4 class="has-text-weight-light">Refrigeração</h4>
-        </div>
-      </div>
-
       <!-- Section Quem Somos -->
-      <section class="hero is-orangethird is-bold has-text-centered">
+      <section class="hero is-douradofirst is-bold has-text-centered">
         <div class="hero-body">
           <div class="container">
             <div class="section">
@@ -179,82 +151,48 @@
         </div>
       </section>
 
-      <!-- Section Destaques -->
-      <body>
-      <section class="section is-paddingless">
-        <div class="columns">
-          <div class="column">
-            <figure class="image">
-              <img class="" src="assets/imgs/destaques/destaque_001.jpg">
+      <!-- Destaques Serviços -->
+      <section class="hero is-bold is-bluefirst has-text-douradofirst">
+
+        <div class="columns has-text-centered is-marginless">
+          <div class="column is-uppercase section">
+            <figure class="image is-128x128 has-image-centered">
+              <img class="" src="assets/imgs/icons/shopping-cart.svg">
             </figure>
+            <h3 class="has-text-weight-bold">Supermercados</h3>
+
           </div>
-          <div class="column">
-            <div class="section is-medium">
-              <h4 class="subtitle is-uppercase has-text-weight-light">
-                CÂMARAS FRIGORÍFICAS FORTALEZA
-              </h4>
-              <p>
-                <i>
-                  Ao buscar por boas câmaras frigoríficas Fortaleza é importante que os clientes levem alguns pontos em consideração, pontos que não só facilitarão o processo de busca, como também serão os responsáveis por garantir que o produto seja capaz de atender suas necessidades.
-                </i>
-              </p>
-              <a class="button is-orangesecond is-rounded is-uppercase has-text-weight-light">Continuar Lendo <i class="fas fa-arrow-right fa-fw"></i>
-              </a>
-            </div>
+          <div class="column is-uppercase section">
+            <figure class="image is-128x128 has-image-centered">
+              <img class="" src="assets/imgs/icons/medicine.svg">
+            </figure>
+            <h3 class="has-text-weight-bold">Farmácias</h3>
+          </div>
+          <div class="column is-uppercase section">
+            <figure class="image is-128x128 has-image-centered">
+              <img class="i" src="assets/imgs/icons/shopping-center.svg">
+            </figure>
+            <h3 class="has-text-weight-bold">Home Centers</h3>
+          </div>
+          <div class="column is-uppercase section">
+            <figure class="image is-128x128 has-image-centered">
+              <img class="" src="assets/imgs/icons/storage.svg">
+            </figure>
+            <h3 class="has-text-weight-bold">Armazenagem</h3>
+          </div>
+          <div class="column is-uppercase section">
+            <figure class="image is-128x128 has-image-centered">
+              <img class="" src="assets/imgs/icons/refrigerator.svg">
+            </figure>
+            <h3 class="has-text-weight-bold">Refrigeração</h3>
           </div>
         </div>
       </section>
-      <section class="section is-paddingless has-text-right">
-        <div class="columns">
-          <div class="column">
-            <div class="section is-medium">
-              <h4 class="subtitle is-uppercase has-text-weight-light">
-                EXPOSITOR REFRIGERADO AÇOUGUE
-              </h4>
-              <p>
-                <i>
-                  O expositor refrigerado açougue utiliza de temperatura específica para a aplicação onde atua, o que assegura que as peças serão inteiramente preservadas durante o tempo que for necessário, a fim de garantir a qualidade do alimento.
-                </i>
-              </p>
-              <a class="button is-orangesecond is-rounded is-uppercase has-text-weight-light">Continuar Lendo <i class="fas fa-arrow-right fa-fw"></i>
-              </a>
-            </div>
-          </div>
-          <div class="column">
-            <figure class="image">
-              <img class="" src="assets/imgs/destaques/destaque_002.jpg">
-            </figure>
-          </div>
-        </div>
-      </section>
-      <section class="section is-paddingless">
-        <div class="columns">
-          <div class="column">
-            <figure class="image">
-              <img class="" src="assets/imgs/destaques/destaque_003.jpg">
-            </figure>
-          </div>
-          <div class="column">
-            <div class="section is-medium">
-              <h4 class="subtitle is-uppercase has-text-weight-light">
-                Fabricantes de checkouts
-              </h4>
-              <p>
-                <i>
-                  As fabricantes de check outs são referências quando se trata da matéria prima de excelência empregadas na confecção dos itens e conta com um design de página linear, que não permite distrações durante a utilização.
-                </i>
-              </p>
-              <a class="button is-orangesecond is-rounded is-uppercase has-text-weight-light">Continuar Lendo <i class="fas fa-arrow-right fa-fw"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </section>
-    </body>
+
     </main>
 
     <!-- Content Footer -->
-    <footer class="footer has-background-orangefirst has-text-white is-bold">
+    <footer class="footer has-background-black has-text-white is-bold">
       <div class="content">
         <div class="container">
           <div class="columns">

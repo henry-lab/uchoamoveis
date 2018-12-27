@@ -25,3 +25,20 @@
 .footer{
   padding: 3rem 1.5rem 2rem;
 }
+
+.fixed-top{
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 30;
+}
+
+.navbar-brand{
+  position: absolute;
+  top: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  z-index: 40;
+  background-color: #DAA520;
+}
