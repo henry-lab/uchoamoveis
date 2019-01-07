@@ -27,7 +27,7 @@
 
           <div class="navbar-brand">
             <a class="navbar-item" href="#">
-              <img src="assets/imgs/logo_azul.svg" width="150" height="auto">
+              <img src="assets/imgs/logo_dourado.svg" width="150" height="auto">
             </a>
 
             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
@@ -129,14 +129,11 @@
         <div class="item"><img src="assets/imgs/images/05.jpg" alt=""></div>
       </div>
       <!-- Section Quem Somos -->
-      <section class="hero is-douradofirst is-bold has-text-centered">
+      <!-- <section class="hero is-douradofirst is-bold has-text-centered">
         <div class="hero-body">
           <div class="container">
             <div class="section">
 
-              <!-- <h1 class="title">
-              Primary bold title
-            </h1> -->
             <h2 class="subtitle has-text-weight-light is-uppercase">
               Quem Somos
             </h2>
@@ -149,44 +146,52 @@
             <a class="button is-primary is-inverted is-outlined is-rounded is-medium is-uppercase has-text-weight-light">Saiba Mais</a>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <!-- Destaques Serviços -->
-      <section class="hero is-bold is-bluefirst has-text-douradofirst">
+      <section class="hero is-medium is-bold is-bluefirst has-text-douradofirst">
 
-        <div class="columns has-text-centered is-marginless">
-          <div class="column is-uppercase section">
-            <figure class="image is-128x128 has-image-centered">
-              <img class="" src="assets/imgs/icons/shopping-cart.svg">
-            </figure>
-            <h3 class="has-text-weight-bold">Supermercados</h3>
 
+          <div class="columns has-text-centered is-marginless">
+            <div class="column section">
+              <figure class="image is-128x128 has-image-centered">
+                <img class="" src="assets/imgs/icons/shopping-cart.svg">
+              </figure>
+              <h3 class="has-text-weight-bold is-uppercase">Supermercados</h3>
+              <p>Peças com estrutura em aço e acabamento amadeirado, proporcionando mais beleza, sofisticação e resistência ao seu equipamento...</p>
+            </div>
+            <div class="column section">
+              <figure class="image is-128x128 has-image-centered">
+                <img class="" src="assets/imgs/icons/medicine.svg">
+              </figure>
+              <h3 class="has-text-weight-bold is-uppercase">Farmácias</h3>
+              <p>Contemplando elementos em vidro e madeira, que contrastam com aço, este conceito alia modernidade e conforto...</p>
+            </div>
+            <div class="column section">
+              <figure class="image is-128x128 has-image-centered">
+                <img class="i" src="assets/imgs/icons/shopping-center.svg">
+              </figure>
+              <h3 class="has-text-weight-bold is-uppercase ">Home Centers</h3>
+              <p>Idealizado para que haja aproveitamento total do espaço, garantindo com facilidade o acesso do público aos diferentes tipos e marcas de produtos...</p>
+            </div>
+            <div class="column section">
+              <figure class="image is-128x128 has-image-centered">
+                <img class="" src="assets/imgs/icons/storage.svg">
+              </figure>
+              <h3 class="has-text-weight-bold is-uppercase ">Armazenagem</h3>
+              <p>Excelente controle do estoque. Se adapta a qualquer espaço, peso ou tamanho. Versátil e de fácil manutenção, dispõe de uma ampla gama de acessórios...</p>
+            </div>
+            <div class="column section">
+              <figure class="image is-128x128 has-image-centered">
+                <img class="" src="assets/imgs/icons/refrigerator.svg">
+              </figure>
+              <h3 class="has-text-weight-bold is-uppercase ">Refrigeração</h3>
+              <p>Utilizando materiais e equipamentos de primeira linha, fornecemos câmaras frigoríficas completas para qualquer finalidade com controle automático de temperatura e umidade...</p>
+            </div>
           </div>
-          <div class="column is-uppercase section">
-            <figure class="image is-128x128 has-image-centered">
-              <img class="" src="assets/imgs/icons/medicine.svg">
-            </figure>
-            <h3 class="has-text-weight-bold">Farmácias</h3>
-          </div>
-          <div class="column is-uppercase section">
-            <figure class="image is-128x128 has-image-centered">
-              <img class="i" src="assets/imgs/icons/shopping-center.svg">
-            </figure>
-            <h3 class="has-text-weight-bold">Home Centers</h3>
-          </div>
-          <div class="column is-uppercase section">
-            <figure class="image is-128x128 has-image-centered">
-              <img class="" src="assets/imgs/icons/storage.svg">
-            </figure>
-            <h3 class="has-text-weight-bold">Armazenagem</h3>
-          </div>
-          <div class="column is-uppercase section">
-            <figure class="image is-128x128 has-image-centered">
-              <img class="" src="assets/imgs/icons/refrigerator.svg">
-            </figure>
-            <h3 class="has-text-weight-bold">Refrigeração</h3>
-          </div>
-        </div>
+
+
+
       </section>
 
     </main>

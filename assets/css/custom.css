@@ -40,5 +40,9 @@
   padding-top: 10px;
   padding-bottom: 10px;
   z-index: 40;
-  background-color: #DAA520;
+  background-color: black;
+
+  -webkit-box-shadow: 15px -4px 20px -15px rgba(0,0,0,0.75);
+-moz-box-shadow: 15px -4px 20px -15px rgba(0,0,0,0.75);
+box-shadow: 15px -4px 20px -15px rgba(0,0,0,0.75);
 }
