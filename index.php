@@ -26,8 +26,8 @@
         <div class="container">
 
           <div class="navbar-brand">
-            <a class="navbar-item" href="#">
-              <img src="assets/imgs/logo_dourado.svg" width="150" height="auto">
+            <a class="navbar-item image" href="#">
+              <img src="assets/imgs/logo_dourado.svg" width="300px">
             </a>
 
             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
