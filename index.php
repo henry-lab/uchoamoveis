@@ -14,7 +14,7 @@
 
     <!-- Content Header -->
     <header class="fixed-top">
-      <section class="section is-paddingless has-background-bluefirst has-text-white-bis">
+      <section class="section is-paddingless has-background-black has-text-white-bis">
         <div class="container">
 
           <div class="info-top-menu">
