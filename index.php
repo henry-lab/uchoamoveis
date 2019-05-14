@@ -50,62 +50,42 @@
                 Representantes
               </a>
 
-              <div class="navbar-item has-dropdown is-hoverable is-mega">
+              <div class="navbar-item has-dropdown is-hoverable">
                 <div class="navbar-link">
                   Serviços
                 </div>
-                <div id="blogDropdown" class="navbar-dropdown">
-                  <div class="container is-fluid">
-                    <div class="columns">
-                      <div class="column">
-                        <a class="navbar-item">Balcão Vitrine Para Padaria</a>
-                        <a class="navbar-item">Câmaras Frigoríficas Fortaleza</a>
-                        <a class="navbar-item">Câmaras Frigoríficas Para Supermercados</a>
-                        <a class="navbar-item">Check Out Para Padaria</a>
-                        <a class="navbar-item">Check Out Para Supermercado</a>
-                        <a class="navbar-item">Comprar Vitrine Para Padaria</a>
-                        <a class="navbar-item">Expositor De Ração</a>
-                        <a class="navbar-item">Expositor De Ração Para Pet Shop</a>
-                        <a class="navbar-item">Expositor Para Flv</a>
-                        <a class="navbar-item">Expositor Refrigerado Açougue</a>
-                      </div>
-
-                      <div class="column">
-                        <a class="navbar-item">Expositor Refrigerado Para Hortifruti</a>
-                        <a class="navbar-item">Expositores Para Laticinios</a>
-                        <a class="navbar-item">Expositores Para Supermercados</a>
-                        <a class="navbar-item">Fábrica De Gôndolas Para Supermercado</a>
-                        <a class="navbar-item">Fabricantes De Checkouts</a>
-                        <a class="navbar-item">Fabricantes De Gôndolas Para Supermercado</a>
-                        <a class="navbar-item">Gôndola Rack</a>
-                        <a class="navbar-item">Gôndolas E Checkouts</a>
-                        <a class="navbar-item">Gôndolas Em Fortaleza</a>
-                        <a class="navbar-item">Gôndolas Para Supermercado</a>
-                      </div>
-
-                      <div class="column">
-                        <a class="navbar-item">Gôndolas Para Supermercado Em Fortaleza</a>
-                        <a class="navbar-item">Gôndolas Para Supermercado Preço</a>
-                        <a class="navbar-item">Porta Palete Para Armazenagem</a>
-                        <a class="navbar-item">Porta Paletes Comprar</a>
-                        <a class="navbar-item">Porta Paletes Em Fortaleza</a>
-                        <a class="navbar-item">Prateleira Para Supermercado</a>
-                        <a class="navbar-item">Prateleiras De Aço Para Supermercado Preço</a>
-                        <a class="navbar-item">Rack Para Armazenagem</a>
-                        <a class="navbar-item">Rack Para Supermercados</a>
-                        <a class="navbar-item">Vasca De Hortifruti</a>
-                      </div>
-
-                      <div class="column">
-                        <a class="navbar-item">Vasca Hortifruti Central</a>
-                        <a class="navbar-item">Vasca Lateral Para Hortifruti</a>
-                        <a class="navbar-item">Vitrine Expositora Para Padaria</a>
-                        <a class="navbar-item">Vitrine Para Padaria</a>
-                        <a class="navbar-item">Vitrine Para Padaria Preço</a>
-                      </div>
-
-                    </div>
-                  </div>
+                <div id="blogDropdown" class="navbar-dropdown is-boxed is-right">
+                  <a class="navbar-item">
+                    Gôndulas
+                  </a>
+                  <a class="navbar-item">
+                    Check-outs
+                  </a>
+                  <a class="navbar-item">
+                    Balcão para Carnes e Frios
+                  </a>
+                  <a class="navbar-item">
+                    Vitrines para Padaria
+                  </a>
+                  <a class="navbar-item">
+                    Expositor para Bebidas e Latícinios
+                  </a>
+                  <a class="navbar-item">
+                    Vasca Hortifruti
+                  </a>
+                  <a class="navbar-item">
+                    Expositor para Ovos
+                  </a>
+                  <a class="navbar-item">
+                    Porta Paletas
+                  </a>
+                  <a class="navbar-item">
+                    Walk-in Cooler
+                  </a>
+                  <a class="navbar-item">
+                    Balcão para Farmácia
+                  </a>
+          
                 </div>
               </div>
 
