@@ -18,4 +18,10 @@ $(document).ready(function() {
     animateOut: 'fadeOut',
     dots: false
   });
+  // $('.lightgallery').lightGallery({});
+  // $('.example-image-link').lightbox({
+  //   'resizeDuration': 200,
+  //   'wrapAround': true
+  // });
+
 });
