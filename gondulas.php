@@ -113,9 +113,9 @@
             <div class="demo-gallery">
 
               <ul id="lightgallery" class="list-unstyled columns is-multiline">
-                  <li data-src="gondulas.php/assets/imgs/light_box/gondulas/image-1.jpg" class="column is-2">
+                  <li data-src="./assets/imgs/light_box/gondulas/image-1.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="gondulas.php/assets/imgs/light_box/gondulas/thumbnais/image-1.jpg" alt="">
+                        <img src="./assets/imgs/light_box/gondulas/thumbnais/image-1.jpg" alt="">
                       </a>
                   </li>
                   <li data-src="assets/imgs/light_box/gondulas/image-2.jpg" class="column is-2">
