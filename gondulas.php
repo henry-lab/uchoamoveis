@@ -40,7 +40,7 @@
           </div>
           <div id="navbarBasicExample" class="navbar-menu">
             <div class="navbar-end">
-              <a class="navbar-item" href="index.php">
+              <a class="navbar-item" href="index.html">
                 Home
               </a>
 
@@ -57,7 +57,7 @@
                   Serviços
                 </div>
                 <div id="blogDropdown" class="navbar-dropdown is-boxed is-right">
-                  <a class="navbar-item" href="gondulas.php">
+                  <a class="navbar-item" href="gondulas.html">
                     Gôndulas
                   </a>
                   <a class="navbar-item">
@@ -113,84 +113,84 @@
             <div class="demo-gallery">
 
               <ul id="lightgallery" class="list-unstyled columns is-multiline">
-                  <li data-src="https://uchoamoveis.herokuapp.com/gondulas.html/assets/imgs/light_box/gondulas/image-1.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/gondulas/Image-1.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="https://uchoamoveis.herokuapp.com/gondulas.html/assets/imgs/light_box/gondulas/thumbnais/image-1.jpg" alt="">
+                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-1.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/images/gondulas/Image-1.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/gondulas/Image-2.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/images/gondulas/thumbnais/Image-1.jpg" alt="">
+                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-2.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/image-3.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/gondulas/Image-3.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/image-3.jpg" alt="">
+                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-3.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/image-4.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/gondulas/Image-4.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/image-4.jpg" alt="">
+                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-4.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/image-5.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/gondulas/Image-5.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/image-5.jpg" alt="">
+                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-5.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/image-6.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/gondulas/Image-6.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/image-6.jpg" alt="">
+                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-6.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/image-6.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/gondulas/Image-7.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/image-7.jpg" alt="">
+                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-7.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/image-6.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/gondulas/Image-8.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/image-8.jpg" alt="">
+                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-8.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/image-6.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/gondulas/Image-9.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/image-9.jpg" alt="">
+                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-9.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/image-6.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/gondulas/Image1.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/image1.jpg" alt="">
+                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image1.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/image-6.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/gondulas/Image2.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/image2.jpg" alt="">
+                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image2.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/image-6.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/gondulas/Image3.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/image3.jpg" alt="">
+                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image3.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/image-6.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/gondulas/Image4.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/image4.jpg" alt="">
+                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image4.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/image-6.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/gondulas/Image5.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/image5.jpg" alt="">
+                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image5.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/image-6.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/gondulas/Image6.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/image6.jpg" alt="">
+                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image6.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/image-6.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/gondulas/Image7.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/image7.jpg" alt="">
+                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image7.jpg" alt="">
                       </a>
                   </li>
               </ul>
