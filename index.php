@@ -57,7 +57,7 @@
                 </div>
                 <div id="blogDropdown" class="navbar-dropdown is-boxed is-right">
                   <a class="navbar-item" href="gondulas.html">
-                    Gôndulas
+                    Gôndolas
                   </a>
                   <a class="navbar-item">
                     Check-outs

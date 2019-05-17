@@ -58,7 +58,7 @@
                 </div>
                 <div id="blogDropdown" class="navbar-dropdown is-boxed is-right">
                   <a class="navbar-item" href="gondulas.html">
-                    Gôndulas
+                    Gôndolas
                   </a>
                   <a class="navbar-item">
                     Check-outs
@@ -108,7 +108,7 @@
       <section class="section">
 
         <div class="container">
-            <h1 class="title">Gôndulas</h1>
+            <h1 class="title">Gôndolas</h1>
         
             <div class="demo-gallery">
 
