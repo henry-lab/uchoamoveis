@@ -7,7 +7,8 @@
     <link rel="stylesheet" href="assets/css/custom.css">
     <link rel="stylesheet" href="assets/css/owl.carousel.css">
     <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet" href="lightbox2-master/dist/css/simplelightbox.min.css">
+    <!-- <link rel="stylesheet" href="assets/css/lightgallery.css"> -->
+    <link href="https://cdn.rawgit.com/sachinchoolur/lightgallery.js/master/dist/css/lightgallery.css" rel="stylesheet">
 
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
   </head>
@@ -27,7 +28,7 @@
         <div class="container">
 
           <div class="navbar-brand">
-            <a class="navbar-item image" href="index.php">
+            <a class="navbar-item image" href="#">
               <img src="assets/imgs/logo_dourado.svg" width="300px">
             </a>
 
@@ -100,78 +101,73 @@
     </header>
 
     <!--Content Body  -->
-    <main>
+    <main class="">
 
-      <div class="owl-carousel owl-theme">
-        <div class="item"><img src="assets/imgs/images/01.jpg" alt=""></div>
-        <div class="item"><img src="assets/imgs/images/02.jpg" alt=""></div>
-        <div class="item"><img src="assets/imgs/images/03.jpg" alt=""></div>
-        <div class="item"><img src="assets/imgs/images/04.jpg" alt=""></div>
-        <div class="item"><img src="assets/imgs/images/05.jpg" alt=""></div>
-      </div>
-      <!-- Section Quem Somos -->
-      <!-- <section class="hero is-douradofirst is-bold has-text-centered">
-        <div class="hero-body">
-          <div class="container">
-            <div class="section">
-
-            <h2 class="subtitle has-text-weight-light is-uppercase">
-              Quem Somos
-            </h2>
-
-            <p> Seja qual for o tamanho do seu negócio, Uchôa Móveis tem a melhor solução.
-              A Uchôa Móveis é uma competente e especializada empresa que se consolidou no mercado em decorrência da excelência
-              com que tem atuado no desenvolvimento e fabricação de gôndolas e expositores para supermercados, mercadinhos,
-              padarias e frigoríficos diversos.</p>
-            </div>
-            <a class="button is-primary is-inverted is-outlined is-rounded is-medium is-uppercase has-text-weight-light">Saiba Mais</a>
-          </div>
-        </div>
-      </section> -->
-
+      <section class="section"></section>
       <!-- Destaques Serviços -->
-      <section class="hero is-medium is-bold is-bluefirst has-text-douradofirst">
+      <section class="section">
 
+        <div class="container">
+            <h1 class="title">Vitrines para Padaria</h1>
+        
+            <div class="demo-gallery">
 
-          <div class="columns has-text-centered is-marginless">
-            <div class="column section">
-              <figure class="image is-128x128 has-image-centered">
-                <img class="" src="assets/imgs/icons/shopping-cart.svg">
-              </figure>
-              <h3 class="has-text-weight-bold is-uppercase">Supermercados</h3>
-              <p>Peças com estrutura em aço e acabamento amadeirado, proporcionando mais beleza, sofisticação e resistência ao seu equipamento...</p>
-            </div>
-            <div class="column section">
-              <figure class="image is-128x128 has-image-centered">
-                <img class="" src="assets/imgs/icons/medicine.svg">
-              </figure>
-              <h3 class="has-text-weight-bold is-uppercase">Farmácias</h3>
-              <p>Contemplando elementos em vidro e madeira, que contrastam com aço, este conceito alia modernidade e conforto...</p>
-            </div>
-            <div class="column section">
-              <figure class="image is-128x128 has-image-centered">
-                <img class="i" src="assets/imgs/icons/shopping-center.svg">
-              </figure>
-              <h3 class="has-text-weight-bold is-uppercase ">Home Centers</h3>
-              <p>Idealizado para que haja aproveitamento total do espaço, garantindo com facilidade o acesso do público aos diferentes tipos e marcas de produtos...</p>
-            </div>
-            <div class="column section">
-              <figure class="image is-128x128 has-image-centered">
-                <img class="" src="assets/imgs/icons/storage.svg">
-              </figure>
-              <h3 class="has-text-weight-bold is-uppercase ">Armazenagem</h3>
-              <p>Excelente controle do estoque. Se adapta a qualquer espaço, peso ou tamanho. Versátil e de fácil manutenção, dispõe de uma ampla gama de acessórios...</p>
-            </div>
-            <div class="column section">
-              <figure class="image is-128x128 has-image-centered">
-                <img class="" src="assets/imgs/icons/refrigerator.svg">
-              </figure>
-              <h3 class="has-text-weight-bold is-uppercase ">Refrigeração</h3>
-              <p>Utilizando materiais e equipamentos de primeira linha, fornecemos câmaras frigoríficas completas para qualquer finalidade com controle automático de temperatura e umidade...</p>
-            </div>
-          </div>
+              <ul id="lightgallery" class="list-unstyled columns is-multiline">
+                  <li data-src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/Image1.jpg" class="column is-2">
+                    <a href="" class="image">
+                        <img src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/thumbnails/Image1.jpg" alt="">
+                      </a>
+                  </li>
+                  <li data-src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/Image2.jpg" class="column is-2">
+                    <a href="" class="image">
+                        <img src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/thumbnails/Image2.jpg" alt="">
+                      </a>
+                  </li>
+                  <li data-src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/Image3.jpg" class="column is-2">
+                    <a href="" class="image">
+                        <img src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/thumbnails/Image3.jpg" alt="">
+                      </a>
+                  </li>
+                  <li data-src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/Image04.jpg" class="column is-2">
+                    <a href="" class="image">
+                        <img src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/thumbnails/Image04.jpg" alt="">
+                      </a>
+                  </li>
+                  <li data-src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/Image05.jpg" class="column is-2">
+                    <a href="" class="image">
+                        <img src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/thumbnails/Image05.jpg" alt="">
+                      </a>
+                  </li>
+                  <li data-src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/Image06.jpg" class="column is-2">
+                    <a href="" class="image">
+                        <img src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/thumbnails/Image06.jpg" alt="">
+                      </a>
+                  </li>
+                  <li data-src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/Image6.jpg" class="column is-2">
+                    <a href="" class="image">
+                        <img src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/thumbnails/Image6.jpg" alt="">
+                      </a>
+                  </li>
+                  <li data-src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/Image07.jpg" class="column is-2">
+                    <a href="" class="image">
+                        <img src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/thumbnails/Image07.jpg" alt="">
+                      </a>
+                  </li>
+                  <li data-src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/Image08.jpg" class="column is-2">
+                    <a href="" class="image">
+                        <img src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/thumbnails/Image08.jpg" alt="">
+                      </a>
+                  </li>
+                  <li data-src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/Image09.jpg" class="column is-2">
+                    <a href="" class="image">
+                        <img src="assets/imgs/light_box/vitrine-para-padaria-e-lanchonete/thumbnails/Image09.jpg" alt="">
+                      </a>
+                  </li>
+                  
+              </ul>
 
-
+            </div>
+        </div>
 
       </section>
 
@@ -256,11 +252,20 @@
 
     <!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" crossorigin="anonymous"></script> -->
     <script type="text/javascript" src="assets/js/jquery.min.js"></script>
-    <script type="text/javascript" src="assets/js/owl.carousel.min.js"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/picturefill/2.3.1/picturefill.min.js"></script> -->
+    <script src="assets/js/lightgallery.js"></script>
+    <script src="assets/js/lg-pager.js"></script>
+    <script src="assets/js/lg-autoplay.js"></script>
+    <script src="assets/js/lg-fullscreen.js"></script>
+    <script src="assets/js/lg-zoom.js"></script>
+    <script src="assets/js/lg-hash.js"></script>
+    <script src="assets/js/lg-share.js"></script>
 
-    <script type="text/javascript" src="assets/js/simple-lightbox.min.js"></script>
+    <script type="text/javascript">
+      lightGallery(document.getElementById('lightgallery')); 
+  </script>
 
-    <script type="text/javascript" src="assets/js/uchoa-main.js"></script>
+    <!-- <script type="text/javascript" src="assets/js/uchoa-main.js"></script> -->
 
 
   </body>

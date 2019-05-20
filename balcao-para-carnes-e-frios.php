@@ -28,7 +28,7 @@
         <div class="container">
 
           <div class="navbar-brand">
-            <a class="navbar-item image" href="#">
+            <a class="navbar-item image" href="index.php">
               <img src="assets/imgs/logo_dourado.svg" width="300px">
             </a>
 
@@ -40,7 +40,7 @@
           </div>
           <div id="navbarBasicExample" class="navbar-menu">
             <div class="navbar-end">
-              <a class="navbar-item" href="index.html">
+              <a class="navbar-item" href="index.php">
                 Home
               </a>
 
@@ -57,19 +57,19 @@
                   Serviços
                 </div>
                 <div id="blogDropdown" class="navbar-dropdown is-boxed is-right">
-                  <a class="navbar-item" href="gondulas.html">
+                  <a class="navbar-item" href="gondolas.php">
                     Gôndolas
                   </a>
-                  <a class="navbar-item">
+                  <a class="navbar-item" href="check-outs.php">
                     Check-outs
                   </a>
-                  <a class="navbar-item">
+                  <a class="navbar-item" href="balcao-para-carnes-e-frios.php">
                     Balcão para Carnes e Frios
                   </a>
-                  <a class="navbar-item">
+                  <a class="navbar-item" href="vitrine-para-padaria-e-lanchonete.php">
                     Vitrines para Padaria
                   </a>
-                  <a class="navbar-item">
+                  <a class="navbar-item" href="expositor-para-bebidas-e-laticinios.php">
                     Expositor para Bebidas e Latícinios
                   </a>
                   <a class="navbar-item">
@@ -108,89 +108,44 @@
       <section class="section">
 
         <div class="container">
-            <h1 class="title">Gôndolas</h1>
+            <h1 class="title">Balcão para Carnes e Frios</h1>
         
             <div class="demo-gallery">
 
               <ul id="lightgallery" class="list-unstyled columns is-multiline">
-                  <li data-src="assets/imgs/light_box/gondulas/Image-1.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/balcao-para-carnes-e-frios/Image1.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-1.jpg" alt="">
+                        <img src="assets/imgs/light_box/balcao-para-carnes-e-frios/thumbnails/Image1.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/Image-2.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/balcao-para-carnes-e-frios/Image2.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-2.jpg" alt="">
+                        <img src="assets/imgs/light_box/balcao-para-carnes-e-frios/thumbnails/Image2.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/Image-3.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/balcao-para-carnes-e-frios/Image3.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-3.jpg" alt="">
+                        <img src="assets/imgs/light_box/balcao-para-carnes-e-frios/thumbnails/Image3.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/Image-4.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/balcao-para-carnes-e-frios/Image4.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-4.jpg" alt="">
+                        <img src="assets/imgs/light_box/balcao-para-carnes-e-frios/thumbnails/Image4.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/Image-5.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/balcao-para-carnes-e-frios/Image5.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-5.jpg" alt="">
+                        <img src="assets/imgs/light_box/balcao-para-carnes-e-frios/thumbnails/Image5.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/Image-6.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/balcao-para-carnes-e-frios/Image6.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-6.jpg" alt="">
+                        <img src="assets/imgs/light_box/balcao-para-carnes-e-frios/thumbnails/Image6.jpg" alt="">
                       </a>
                   </li>
-                  <li data-src="assets/imgs/light_box/gondulas/Image-7.jpg" class="column is-2">
+                  <li data-src="assets/imgs/light_box/balcao-para-carnes-e-frios/Image7.jpg" class="column is-2">
                     <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-7.jpg" alt="">
-                      </a>
-                  </li>
-                  <li data-src="assets/imgs/light_box/gondulas/Image-8.jpg" class="column is-2">
-                    <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-8.jpg" alt="">
-                      </a>
-                  </li>
-                  <li data-src="assets/imgs/light_box/gondulas/Image-9.jpg" class="column is-2">
-                    <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image-9.jpg" alt="">
-                      </a>
-                  </li>
-                  <li data-src="assets/imgs/light_box/gondulas/Image1.jpg" class="column is-2">
-                    <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image1.jpg" alt="">
-                      </a>
-                  </li>
-                  <li data-src="assets/imgs/light_box/gondulas/Image2.jpg" class="column is-2">
-                    <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image2.jpg" alt="">
-                      </a>
-                  </li>
-                  <li data-src="assets/imgs/light_box/gondulas/Image3.jpg" class="column is-2">
-                    <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image3.jpg" alt="">
-                      </a>
-                  </li>
-                  <li data-src="assets/imgs/light_box/gondulas/Image4.jpg" class="column is-2">
-                    <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image4.jpg" alt="">
-                      </a>
-                  </li>
-                  <li data-src="assets/imgs/light_box/gondulas/Image5.jpg" class="column is-2">
-                    <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image5.jpg" alt="">
-                      </a>
-                  </li>
-                  <li data-src="assets/imgs/light_box/gondulas/Image6.jpg" class="column is-2">
-                    <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image6.jpg" alt="">
-                      </a>
-                  </li>
-                  <li data-src="assets/imgs/light_box/gondulas/Image7.jpg" class="column is-2">
-                    <a href="" class="image">
-                        <img src="assets/imgs/light_box/gondulas/thumbnais/Image7.jpg" alt="">
+                        <img src="assets/imgs/light_box/balcao-para-carnes-e-frios/thumbnails/Image7.jpg" alt="">
                       </a>
                   </li>
               </ul>
